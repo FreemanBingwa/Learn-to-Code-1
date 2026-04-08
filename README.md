@@ -1,3 +1,3 @@
 # Learn-to-Code-1
 
-This is a project to track my progress with the Swift Playgrounds Learn to Code 1 Challenge - F.B.
+This is a project to track my progress with the Swift Playgrounds Learn to Code 1 Challenge 
